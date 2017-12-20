@@ -60,3 +60,7 @@ Step 2 and 3 takes roughly 5-6 hours but could be that my machine was slower run
 Video demo: https://youtu.be/rf3oZQq5Ndo
 
 Trained Model with 70% Accuracy: https://drive.google.com/open?id=1WbmMm1ax2x3JwuMCk_O5zv2qBJp2a1Rv
+
+If importing the Model and Dataset:
+1.Place the model in root folder
+2.Place Dataset in /Raw/ folder
